@@ -42,9 +42,9 @@ Our platform is built using cutting-edge web technologies to ensure a **fast, sc
 ---
 
 ## 📞 Connect With Us
-💬 **Discord:** [Link](https://discord.gg/5Uqba9bt2N)
-🌐 **Website:** [Coming Soon]  
-📧 **Contact:** [Your Email or Support Link]  
+> 💬 **Discord:** [Link](https://discord.gg/5Uqba9bt2N)
+> 🌐 **Website:** [Coming Soon]  
+> 📧 **Contact:** [Your Email or Support Link]  
 
 ---
 
