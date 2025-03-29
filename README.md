@@ -35,9 +35,9 @@ Welcome to **NEXUS Official | Market & Exchange**, a premier digital marketplace
 Our platform is built using cutting-edge web technologies to ensure a **fast, scalable, and secure experience**:
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Backend:** Node.js (if applicable)
-- **Hosting:** Vercel
+- **Hosting:** Vercel, Netlify, other if requested
 - **Payments:** Secure payment gateway integration
-- **Database:** MongoDB / Firebase (if applicable)
+- **Database:** MongoDB / Firebase / Supabase / MariaDB / MySQL / SQLite (if applicable)
 
 ---
 
