@@ -48,10 +48,6 @@ Our platform is built using cutting-edge web technologies to ensure a **fast, sc
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License**. Feel free to use, modify, and contribute.
-
----
 
 ⚡ **Join NEXUS Official | Market & Exchange today and unlock a world of digital opportunities!**
 
